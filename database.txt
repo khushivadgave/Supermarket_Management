@@ -1,0 +1,7 @@
+ 1 Milk 50 5
+ 2 Eggs 20 2
+ 3 Butter 30 2
+ 4 cheese 25 2
+ 0 Eggs 20 2
+ 19 bread 60 5
+ 45 salt 30 2
